@@ -1,2 +1,2 @@
 # FedFB
-ECE 539
+Federated Learning with Filtered Gradient Buffer
